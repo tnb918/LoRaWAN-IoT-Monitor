@@ -1,5 +1,5 @@
 # LoRaWAN-IoT-Monitor
-## IoT environmental monitoring system based on LoRaWAN
+## IoT environmental monitoring system based on LoRaWAN and STM32L4
 
 ## 基础设计实现功能
 
